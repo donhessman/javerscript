@@ -1,0 +1,32 @@
+{
+  "name": "javerscript",
+  "version": "1.0.0",
+  "description": "Module to wrap any script in a bookmarklet and manage library dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donhessman/javerscript.git"
+  },
+  "keywords": [
+    "bookmarklet",
+    "generator",
+    "js",
+    "library",
+    "dependency",
+    "node",
+    "browserify",
+    "module"
+  ],
+  "author": "Steve Anderson",
+  "license": "gnu",
+  "bugs": {
+    "url": "https://github.com/donhessman/javerscript/issues"
+  },
+  "homepage": "https://github.com/donhessman/javerscript",
+  "dependencies": {
+    "uglify": "^0.1.3"
+  }
+}
