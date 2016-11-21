@@ -1,2 +1,2 @@
 # javerscript
-Module to wrap any script in a bookmarklet and manage library dependency
+Scripts made easy. Just click it and stick it!
