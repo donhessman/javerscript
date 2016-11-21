@@ -1,5 +1,7 @@
 # javerscript
-Scripts made easy. Just click it and stick it!
+DOM scripts made easy. Just click it and stick it!
+
+Demo: [JaverScript.com](http://javerscript.com)
 
 ## install
 ```
