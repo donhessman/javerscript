@@ -1,6 +1,6 @@
 {
   "name": "javerscript",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "DOM scripts made easy. Just click it and stick it!",
   "main": "index.js",
   "scripts": {
